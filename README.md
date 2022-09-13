@@ -1,6 +1,7 @@
 FAKE-EMAIL
 
 [INSTALLATION..?]
+
 apt update && apt upgrade -y
 
 pip2 install requests
@@ -18,3 +19,4 @@ pip install colorama
 3- python FAKE-EMAIL.py
 
 Enjoy.... ("_^)
+Always give a star 🌟
