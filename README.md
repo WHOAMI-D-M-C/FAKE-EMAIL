@@ -12,11 +12,11 @@ pip2 install bs4
 
 pip install colorama
 
-1-git clone https://github.com/WHOAMI-XD-KING/FAKE-EMAIL
+git clone https://github.com/WHOAMI-XD-KING/FAKE-EMAIL
 
-2- cd FAKE-EMAIL
+cd FAKE-EMAIL
 
-3- python FAKE-EMAIL.py
+python FAKE-EMAIL.py
 
 Enjoy.... ("_^)
 Always give a star 🌟
